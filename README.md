@@ -41,7 +41,7 @@ The dataset is licensed under the MIT License.
 If you use this dataset in your research, please consider citing this repository.
 
 ```
-@misc{alpaca,
+@misc{Kosovo-Parliament-Transcriptions,
   author = {Kushtrim Visoka},
   title = {Kosovo-Parliament-Transcriptions},
   year = {2023},
