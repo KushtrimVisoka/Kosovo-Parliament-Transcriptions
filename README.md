@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kushtrimvisoka/Kosovo-Parliament-Transcriptions/blob/main/Kosovo_Parliament_Transcriptions.ipynb)
 
-The dataset comprises transcripts of speeches delivered by members of the Kosovo Assembly during parliamentary sessions, spanning from 2007 to March 2023. The goal of this repository is to provide a valuable resource for researchers and professionals interested in natural language processing, or political discourse analysis.
+The dataset comprises transcripts of speeches delivered by members of the Kosovo Assembly during parliamentary sessions spanning from 2007. The goal of this repository is to provide a valuable resource for researchers and professionals interested in natural language processing, or political discourse analysis.
 
 # Data source
 
