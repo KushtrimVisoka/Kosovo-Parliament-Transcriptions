@@ -20,7 +20,7 @@ The dataset was compiled by downloading PDF files and converting them to a text 
 
 # Dataset structure
 
-The dataset contains the following fields: text, speaker, date, id.
+The dataset contains the following fields: text, speaker, date, id, num_tokens.
 
 # Usage
 
